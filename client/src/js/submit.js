@@ -1,2 +1,1 @@
-const submitButton = document.getElementById("submit-button");
-submitButton.disabled = true;
+// removed submit constant so submit button works now
